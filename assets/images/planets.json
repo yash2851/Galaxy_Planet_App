@@ -1,0 +1,200 @@
+[
+  {
+    "no" : "0",
+    "name": "Sun",
+    "diameter": "1.4 million km",
+    "leanthOfYear": "230 million years",
+    "leanthOfDay": "0",
+    "numberOfMoons": "0",
+    "temperature": "6000∘C",
+    "surfaceArea": "864,000 miles",
+    "gravity": "274 m/s²",
+    "velocity": "220 km/s",
+    "distance": "0 million Km",
+    "description": "The Sun is a 4.5 billion-year-old yellow dwarf star – a hot glowing ball of hydrogen and helium – at the center of our solar system. It's about 93 million miles (150 million kilometers) from Earth and it's our solar system's only star. Without the Sun's energy, life as we know it could not exist on our home planet.",
+    "image": "assets/images/planets/0.png",
+    "hero": "sun",
+    "images": [
+      "assets/images/Sun/sun1.png",
+      "assets/images/Sun/sun2.png",
+      "assets/images/Sun/sun3.png",
+      "assets/images/Sun/sun4.png"
+    ]
+  },
+  {
+    "no" : "1",
+    "name": "Mercury",
+    "diameter": "4,879.4 km",
+    "leanthOfYear": "88 days",
+    "leanthOfDay": "176 Earth days",
+    "numberOfMoons": "0",
+    "temperature": "167°C",
+    "surfaceArea": "74.8 million km²",
+    "gravity": "3.7 m/s²",
+    "velocity": "47 km/s",
+    "distance": "58.278 million km",
+    "description": "Mercury is the second densest planet, after Earth. It has a large metallic core with a radius of about 1,289 miles (2,074 kilometers), about 85 percent of the planet's radius. There is evidence that it is partly molten or liquid.Mercury is the second densest planet, after Earth. It has a large metallic core with a radius of about 1,289 miles (2,074 kilometers), about 85 percent of the planet's radius. There is evidence that it is partly molten or liquid.",
+    "image": "assets/images/planets/1.png",
+    "hero": "mercury",
+    "images": [
+      "assets/images/Mercury/mercury1.png",
+      "assets/images/Mercury/mercury2.png",
+      "assets/images/Mercury/mercury3.png",
+      "assets/images/Mercury/mercury4.png"
+    ]
+  },
+  {
+    "no" : "2",
+    "name": "Venus",
+    "diameter": "12,104 km",
+    "leanthOfYear": "225 days",
+    "leanthOfDay": "243d 0h 0m",
+    "numberOfMoons": "0",
+    "temperature": "464°C",
+    "surfaceArea": "460.2 million km²",
+    "gravity": "8.87 m/s²",
+    "velocity": "35 km/s",
+    "distance": "108.12 million km",
+    "description": "Venus is the second planet from the Sun, and is Earth's closest neighbor in the solar system. Venus is the brightest object in the sky after the Sun and the Moon, and sometimes looks like a bright star in the morning or evening sky. The planet is a little smaller than Earth, and is similar to Earth inside.We can't see the surface of Venus from Earth, because it is covered with thick clouds.",
+    "image": "assets/images/planets/2.png",
+    "hero": "venus",
+    "images": [
+      "assets/images/Venus/venus1.png",
+      "assets/images/Venus/venus2.png",
+      "assets/images/Venus/venus3.png",
+      "assets/images/Venus/venus4.png"
+    ]
+  },
+  {
+    "no" : "3",
+    "name": "Earth",
+    "diameter": "12,756 km",
+    "leanthOfYear": "365 days",
+    "leanthOfDay": "24 hours",
+    "numberOfMoons": "1",
+    "temperature": "15°C",
+    "surfaceArea": "510.1 million km²",
+    "gravity": "9.8 m/s²",
+    "velocity": "29 km/s",
+    "distance": "151.83 million km",
+    "description": "Our home planet Earth is a rocky, terrestrial planet. It has a solid and active surface with mountains, valleys, canyons, plains and so much more. Earth is special because it is an ocean planet. Water covers 70% of Earth's surface.Earth's atmosphere is made mostly of nitrogen and has plenty of oxygen for us to breathe. The atmosphere also protects us from incoming meteoroids, most of which break up before they can hit the surface.",
+    "image": "assets/images/planets/3.png",
+    "hero": "earth",
+    "images": [
+      "assets/images/Earth/earth1.png",
+      "assets/images/Earth/earth2.png",
+      "assets/images/Earth/earth3.png",
+      "assets/images/Earth/earth4.png"
+    ]
+  },
+  {
+    "no" : "4",
+    "name": "Mars",
+    "diameter": "6,779 km",
+    "leanthOfYear": "687 days",
+    "leanthOfDay": "24.6 hours",
+    "numberOfMoons": "2",
+    "temperature": "-65°C",
+    "surfaceArea": "144.4 million km²",
+    "gravity": "3.71 m/s²",
+    "velocity": "24 km/s",
+    "distance": "250.66 million km",
+    "description": "Mars is sometimes called the Red Planet. It's red because of rusty iron in the ground. Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons, and weather. It has a very thin atmosphere made of carbon dioxide, nitrogen, and argon.There are signs of ancient floods on Mars, but now water mostly exists in icy dirt and thin clouds",
+    "image": "assets/images/planets/4.png",
+    "hero": "mars",
+    "images": [
+      "assets/images/Mars/mars1.png",
+      "assets/images/Mars/mars2.png",
+      "assets/images/Mars/mars3.png",
+      "assets/images/Mars/mars4.png"
+    ]
+  },
+  {
+    "no" : "5",
+    "name": "Jupiter",
+    "diameter": "143,000 km",
+    "leanthOfYear": "12 years",
+    "leanthOfDay": "10 hours ",
+    "numberOfMoons": "95",
+    "temperature": "-110°C",
+    "surfaceArea": "61.42 billion km²",
+    "gravity": "24.79 m/s²",
+    "velocity": "13 km/s",
+    "distance": "741.43 million km",
+    "description": "Jupiter is covered in swirling cloud stripes. It has big storms like the Great Red Spot, which has been going for hundreds of years. Jupiter is a gas giant and doesn't have a solid surface, but it may have a solid inner core about the size of Earth. Jupiter also has rings, but they're too faint to see very well.",
+    "image": "assets/images/planets/5.png",
+    "hero": "jupiter",
+    "images": [
+      "assets/images/Jupiter/jupiter1.png",
+      "assets/images/Jupiter/jupiter2.png",
+      "assets/images/Jupiter/jupiter3.png",
+      "assets/images/Jupiter/jupiter4.png"
+    ]
+  },
+  {
+    "no" : "6",
+    "name": "Saturn",
+    "diameter": "116,460 km",
+    "leanthOfYear": "29 years",
+    "leanthOfDay": "0d 10h 34m",
+    "numberOfMoons": "124",
+    "temperature": "-140°C",
+    "surfaceArea": "42.7 billion km²",
+    "gravity": "10.44 m/s²",
+    "velocity": "9 km/s",
+    "distance": "1.4635 billion km",
+    "description": "Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Like fellow gas giant Jupiter, Saturn is a massive ball made mostly of hydrogen and helium. Saturn is not the only planet to have rings, but none are as spectacular or as complex as Saturn's. Saturn also has dozens of moons.",
+    "image": "assets/images/planets/6.png",
+    "hero": "saturn",
+    "images": [
+      "assets/images/Saturn/saturn1.png",
+      "assets/images/Saturn/saturn2.png",
+      "assets/images/Saturn/saturn3.png",
+      "assets/images/Saturn/saturn4.png"
+    ]
+  },
+  {
+    "no" : "7",
+    "name": "Uranus",
+    "diameter": "51,118 km",
+    "leanthOfYear": "84 years",
+    "leanthOfDay": "0d 17h 14m",
+    "numberOfMoons": "27",
+    "temperature": "-195°C",
+    "surfaceArea": "8.083 billion km²",
+    "gravity": "8.87 m/s²",
+    "velocity": "6 km/s",
+    "distance": "2.9379 billion km",
+    "description": "Uranus is one of two ice giants in the outer solar system (the other is Neptune). Most (80% or more) of the planet's mass is made up of a hot dense fluid of \"icy\" materials – water, methane, and ammonia – above a small rocky core. Near the core, it heats up to 9,000 degrees Fahrenheit (4,982 degrees Celsius). Uranus is slightly larger in diameter than its neighbor Neptune, yet smaller in mass. It is the second least dense planet; Saturn is the least dense of all.",
+    "image": "assets/images/planets/7.png",
+    "hero": "uranus",
+    "images": [
+      "assets/images/Uranus/uranus1.png",
+      "assets/images/Uranus/uranus2.png",
+      "assets/images/Uranus/uranus3.png",
+      "assets/images/Uranus/uranus4.png"
+    ]
+  },
+  {
+    "no" : "8",
+    "name": "Neptune",
+    "diameter": "49,244 km",
+    "leanthOfYear": "165 years",
+    "leanthOfDay": "0d 16h 6m",
+    "numberOfMoons": "14",
+    "temperature": "-200°C",
+    "surfaceArea": "7.618 billion km²",
+    "gravity": "11.15 m/s²",
+    "velocity": "5 km/s",
+    "distance": "4.4731 billion km",
+    "description": "Neptune is one of two ice giants in the outer solar system (the other is Uranus). Most (80% or more) of the planet's mass is made up of a hot dense fluid of \"icy\" materials – water, methane, and ammonia – above a small, rocky core. Of the giant planets, Neptune is the densest.",
+    "image": "assets/images/planets/8.png",
+    "hero": "neptune",
+    "images": [
+      "assets/images/Neptune/neptune1.png",
+      "assets/images/Neptune/neptune2.png",
+      "assets/images/Neptune/neptune3.png",
+      "assets/images/Neptune/neptune4.png"
+    ]
+  }
+]
